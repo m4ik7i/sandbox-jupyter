@@ -1,3 +1,3 @@
-# sandbox-jupyter-lab-julia
+# sandbox-jupyter
 
-Sandbox JupyterLab with Julia
+Sandbox Jupyter
